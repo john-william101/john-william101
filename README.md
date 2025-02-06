@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patwreck69&label=Profile%20views&color=0e75b6&style=flat" alt="patwreck69" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patwreck69" alt="patwreck69" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=john-william101" alt="john-william101" /></a> </p>
 
-- 🔭 I’m currently working on [align](https://github.com/patwreck69/align)
+- 🔭 I’m currently working on [align](https://github.com/john-william101/align)
 
 - 🌱 I’m currently learning **advanced JavaScript**
 
